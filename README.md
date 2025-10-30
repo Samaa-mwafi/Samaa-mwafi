@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samaa-mwafi
-- 👀 I’m interested in... back_end programming
-- 🌱 I’m currently learning ...paython 
+- 👀 I’m interested in...data analytics
+- 🌱 I’m currently learning ...data analysis tools
 - 💞️ I’m looking to collaborate on...learning coding skills
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
